@@ -1,3 +1,7 @@
+# Using Hooks in a React Todo List
+
+Use hooks to manage state in a todo items single page application.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
